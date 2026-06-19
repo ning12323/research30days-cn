@@ -1,0 +1,17 @@
+[project]
+name = "research30days-cn"
+version = "0.1.0"
+description = "中文多源调研 Agent Skill - 近30天知乎/B站/全网热点调研"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "ddgs>=9.0.0",
+    "httpx>=0.27.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
