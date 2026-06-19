@@ -1,6 +1,6 @@
 # research30days-cn
 
-**English** | [简体中文](./README.md)
+[简体中文](./README.md) | **English** | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Español](./README.es.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [Português](./README.pt.md) | [Русский](./README.ru.md)
 
 **Chinese multi-source research Agent Skill** — one command to research what Zhihu, Bilibili, SSPAI, and the broader Chinese web are saying about any topic in the last 30 days, then output a structured report in Chinese.
 

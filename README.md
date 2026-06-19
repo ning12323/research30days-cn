@@ -1,10 +1,10 @@
 # research30days-cn
 
-**简体中文** | [English](./README.en.md)
+**简体中文** | [English](./README.en.md) | [繁體中文](./README.zh-TW.md) | [日本語](./README.ja.md) | [한국어](./README.ko.md) | [Español](./README.es.md) | [Français](./README.fr.md) | [Deutsch](./README.de.md) | [Português](./README.pt.md) | [Русский](./README.ru.md)
 
 **中文多源调研 Agent Skill** — 一条命令，调研某个话题在知乎、B站、少数派和全网近 30 天的讨论，输出结构化中文报告。
-![demo](media/demo.gif)
 
+![demo](media/demo.gif)
 > 灵感来自 [last30days-skill](https://github.com/mvanhorn/last30days-skill)，专注中文互联网数据源。
 
 ## 快速开始
